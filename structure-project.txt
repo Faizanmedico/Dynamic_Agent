@@ -1,0 +1,11 @@
+Simple directory structure for our project.
+
+dynamic_agent/
+├── main.py
+└── tools/
+    ├── __init__.py
+    ├── weather_tool.py
+    ├── time_tool.py
+    └── calculator_tool.py
+
+
